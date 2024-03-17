@@ -1,28 +1,29 @@
 class Solution {
 public:
-    void solve(int i,vector<int>& candidates, int target, vector<int>& curcomb,vector<vector<int>>& ans){
-        if(target==0 && !count(ans.begin(),ans.end(),curcomb)){
-            ans.push_back(curcomb);
+    void solve(vector<int>& candidates, int target, vector<int>& temp, int index, vector<vector<int>>& ans){
+        if(target==0 && count(ans.begin(),ans.end(),temp)==0){
+            ans.push_back(temp);
             return;
         }
-        
-        for(int j=i;j<candidates.size();j++){
-            if(j>i && candidates[j]==candidates[j-1])
+
+        for(int i=index;i<candidates.size();i++){
+            if(i>index && candidates[i]==candidates[i-1])
                 continue;
-            if(target>=candidates[j]){
-                curcomb.push_back(candidates[j]);
-                solve(j+1,candidates,target-candidates[j],curcomb,ans);
-                curcomb.pop_back();
-                
+            if(target-candidates[i]>=0){
+                temp.push_back(candidates[i]);
+                solve(candidates,target-candidates[i],temp,i+1,ans);
+                temp.pop_back();
             }
         }
+
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        ios_base::sync_with_stdio(false); cin.tie(NULL);
         sort(candidates.begin(),candidates.end());
         vector<vector<int>> ans;
-        vector<int> curcomb;
-        solve(0,candidates,target,curcomb,ans);
+        vector<int> temp;
+        solve(candidates,target,temp,0,ans);
         return ans;
     }
 };
+
+
