@@ -2,7 +2,7 @@ class Twitter {
 public:
 
     vector<pair<int,int>> tweets;
-    unordered_map<int,set<int>> following;
+    unordered_map<int,unordered_set<int>> following;
 
     Twitter() {
 
