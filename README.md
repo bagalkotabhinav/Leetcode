@@ -21,3 +21,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/bagalkotabhinav/Leetcode/tree/master/0055-jump-game) |
+# String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/bagalkotabhinav/Leetcode/tree/master/3379-score-of-a-string) |
