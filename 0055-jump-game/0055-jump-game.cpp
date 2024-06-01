@@ -6,7 +6,9 @@ public:
             if(i>jump)
                 return false;
             jump=max(i+nums[i],jump);
+            if(jump>=nums.size()-1)
+                return true;
         }
-        return true;
+        return false;
     }
 };
