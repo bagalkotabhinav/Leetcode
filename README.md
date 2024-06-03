@@ -6,6 +6,7 @@ My Leetcode Solutions
 # Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/bagalkotabhinav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bagalkotabhinav/Leetcode/tree/master/0055-jump-game) |
 # Divide and Conquer
@@ -15,11 +16,13 @@ My Leetcode Solutions
 # Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/bagalkotabhinav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bagalkotabhinav/Leetcode/tree/master/0055-jump-game) |
 # Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bagalkotabhinav/Leetcode/tree/master/0055-jump-game) |
 # String
 |  |
