@@ -10,6 +10,7 @@ My Leetcode Solutions
 | [0053-maximum-subarray](https://github.com/bagalkotabhinav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bagalkotabhinav/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/bagalkotabhinav/Leetcode/tree/master/0134-gas-station) |
+| [0876-hand-of-straights](https://github.com/bagalkotabhinav/Leetcode/tree/master/0876-hand-of-straights) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -27,6 +28,7 @@ My Leetcode Solutions
 | [0055-jump-game](https://github.com/bagalkotabhinav/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/bagalkotabhinav/Leetcode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/bagalkotabhinav/Leetcode/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/bagalkotabhinav/Leetcode/tree/master/0876-hand-of-straights) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/bagalkotabhinav/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -42,3 +44,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/bagalkotabhinav/Leetcode/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/bagalkotabhinav/Leetcode/tree/master/0876-hand-of-straights) |
+# Sorting
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/bagalkotabhinav/Leetcode/tree/master/0876-hand-of-straights) |
