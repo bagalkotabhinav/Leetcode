@@ -1,16 +1,16 @@
 class Solution {
 public:
-    bool mergeTriplets(vector<vector<int>>& triplets, vector<int>& target) {
-        int n=triplets.size();
-        unordered_set<int> num;
+    bool mergeTriplets(vector<vector<int>>& a, vector<int>& b) {
+        int n=a.size();
+        unordered_set<int> k;
         for(int i=0;i<n;i++){
-            if(triplets[i][0]>target[0] || triplets[i][1]>target[1] || triplets[i][2]>target[2])
+            if(a[i][0]>b[0] || a[i][1]>b[1] || a[i][2]>b[2])
                 continue;
             for(int j=0;j<3;j++){
-                if(triplets[i][j]==target[j])
-                    num.insert(j);
+                if(a[i][j]==b[j])
+                    k.insert(j);
             }
         }
-        return num.size()==3;
+        return k.size()==3;
     }
 };
