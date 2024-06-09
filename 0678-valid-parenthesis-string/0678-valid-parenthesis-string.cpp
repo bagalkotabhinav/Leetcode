@@ -19,7 +19,7 @@ public:
                 return false;
             if(leftmin<0)
                 leftmin=0;
-        } 
-        return leftmin==0;
+        }
+    return leftmin==0;
     }
 };
