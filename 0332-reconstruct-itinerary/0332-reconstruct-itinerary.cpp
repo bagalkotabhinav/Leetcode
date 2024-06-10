@@ -1,27 +1,37 @@
 class Solution {
 public:
-    void dfs(unordered_map<string,multiset<string>>& mp, vector<string>& ans, string start){
-        while(!mp[start].empty()){
-            string temp=*mp[start].begin();
-            mp[start].erase(mp[start].begin());
-            dfs(mp,ans,temp);
-        }
-        ans.push_back(start);
-    }
+
     vector<string> findItinerary(vector<vector<string>>& tickets) {
-        unordered_map<string,multiset<string>> mp;
-        for(auto i: tickets){
-            mp[i[0]].insert(i[1]);
-        }
-        vector<string> ans;
-        dfs(mp,ans,"JFK");
+
+        //using map+multiset+stack data structure 
+
+        unordered_map<string,multiset<string>> adj;
+        vector<string> ans; //create a vector of string to store the order of path
+        int n=tickets.size();
+
+        for(int i=0;i<n;i++)
+            adj[tickets[i][0]].insert(tickets[i][1]);
+
+            stack<string> mystack; //creating stack for storing the ans
+            mystack.push("JFK");  //JFK is fixed staring point
+            
+            while(!mystack.empty())
+            {
+                string src = mystack.top();
+                if(adj[src].size()==0)
+                {
+                    ans.push_back(src);
+                    mystack.pop();
+                }
+
+                else
+                {
+                    auto dst = adj[src].begin();
+                    mystack.push(*dst);
+                    adj[src].erase(dst);
+                }
+            }
         reverse(ans.begin(),ans.end());
         return ans;
     }
 };
-
-// JFK->ANU TIA
-// ANU->JFK EZE TIA
-// EZE->AXA
-// AXA->TIA
-// TIA->ANU ANU JFK
