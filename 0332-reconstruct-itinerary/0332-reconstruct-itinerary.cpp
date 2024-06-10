@@ -1,13 +1,13 @@
 class Solution {
 public:
-    void dfs(unordered_map<string,multiset<string>>& mp, vector<string>& ans, string start){
-        while(!mp[start].empty()){
-            string temp=*mp[start].begin();
-            mp[start].erase(mp[start].begin());
-            dfs(mp,ans,temp);
-        }
-        ans.push_back(start);
-    }
+    // void dfs(unordered_map<string,multiset<string>>& mp, vector<string>& ans, string start){
+    //     while(!mp[start].empty()){
+    //         string temp=*mp[start].begin();
+    //         mp[start].erase(mp[start].begin());
+    //         dfs(mp,ans,temp);
+    //     }
+    //     ans.push_back(start);
+    // }
     vector<string> findItinerary(vector<vector<string>>& tickets) {
         unordered_map<string,multiset<string>> mp;
         for(auto i: tickets){
@@ -23,9 +23,9 @@ public:
                 s.pop();
             }
             else{
-                string val=*mp[temp].begin();
-                s.push(val);
-                mp[temp].erase(mp[temp].begin());
+                auto val=mp[temp].begin();
+                s.push(*val);
+                mp[temp].erase(val);
             }
         }
         // dfs(mp,ans,"JFK");
