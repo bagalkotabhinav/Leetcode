@@ -18,7 +18,7 @@ public:
         s.push("JFK");
         while(!s.empty()){
             string temp=s.top();
-            if(mp[temp].empty()){
+            if(!mp[temp].size()){
                 ans.push_back(temp);
                 s.pop();
             }
