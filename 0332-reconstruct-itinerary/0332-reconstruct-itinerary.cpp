@@ -14,7 +14,21 @@ public:
             mp[i[0]].insert(i[1]);
         }
         vector<string> ans;
-        dfs(mp,ans,"JFK");
+        stack<string> s;
+        s.push("JFK");
+        while(!s.empty()){
+            string temp=s.top();
+            if(mp[temp].empty()){
+                ans.push_back(temp);
+                s.pop();
+            }
+            else{
+                string val=*mp[temp].begin();
+                s.push(val);
+                mp[temp].erase(mp[temp].begin());
+            }
+        }
+        // dfs(mp,ans,"JFK");
         reverse(ans.begin(),ans.end());
         return ans;
     }
