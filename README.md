@@ -69,3 +69,15 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/bagalkotabhinav/Leetcode/tree/master/0678-valid-parenthesis-string) |
+# Depth-First Search
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/bagalkotabhinav/Leetcode/tree/master/0332-reconstruct-itinerary) |
+# Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/bagalkotabhinav/Leetcode/tree/master/0332-reconstruct-itinerary) |
+# Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/bagalkotabhinav/Leetcode/tree/master/0332-reconstruct-itinerary) |
