@@ -11,6 +11,7 @@ My Leetcode Solutions
 | [0055-jump-game](https://github.com/bagalkotabhinav/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/bagalkotabhinav/Leetcode/tree/master/0134-gas-station) |
 | [0648-replace-words](https://github.com/bagalkotabhinav/Leetcode/tree/master/0648-replace-words) |
+| [0794-swim-in-rising-water](https://github.com/bagalkotabhinav/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/bagalkotabhinav/Leetcode/tree/master/0876-hand-of-straights) |
 | [1217-relative-sort-array](https://github.com/bagalkotabhinav/Leetcode/tree/master/1217-relative-sort-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/bagalkotabhinav/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -77,6 +78,7 @@ My Leetcode Solutions
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/bagalkotabhinav/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0744-network-delay-time](https://github.com/bagalkotabhinav/Leetcode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/bagalkotabhinav/Leetcode/tree/master/0794-swim-in-rising-water) |
 # Graph
 |  |
 | ------- |
@@ -94,11 +96,25 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/bagalkotabhinav/Leetcode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/bagalkotabhinav/Leetcode/tree/master/0794-swim-in-rising-water) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/bagalkotabhinav/Leetcode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/bagalkotabhinav/Leetcode/tree/master/0794-swim-in-rising-water) |
 # Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/bagalkotabhinav/Leetcode/tree/master/0744-network-delay-time) |
+# Binary Search
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/bagalkotabhinav/Leetcode/tree/master/0794-swim-in-rising-water) |
+# Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/bagalkotabhinav/Leetcode/tree/master/0794-swim-in-rising-water) |
+# Matrix
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/bagalkotabhinav/Leetcode/tree/master/0794-swim-in-rising-water) |
