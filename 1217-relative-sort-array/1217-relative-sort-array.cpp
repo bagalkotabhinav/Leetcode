@@ -5,10 +5,14 @@ public:
         for(auto i: arr1)
             mp[i]++;
         vector<int> ans;
-        for(auto i: arr2){
-            for(int j=0;j<mp[i];j++)
-                ans.push_back(i);
-            mp.erase(i);
+        int i=0;
+        while(i<arr2.size()){
+            if(mp[arr2[i]]){
+                ans.push_back(arr2[i]);
+                mp[arr2[i]]--;
+            }
+            else
+                i++;
         }
         for(auto i: mp){
             for(int j=0;j<i.second;j++)
