@@ -76,10 +76,12 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/bagalkotabhinav/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0744-network-delay-time](https://github.com/bagalkotabhinav/Leetcode/tree/master/0744-network-delay-time) |
 # Graph
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/bagalkotabhinav/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0744-network-delay-time](https://github.com/bagalkotabhinav/Leetcode/tree/master/0744-network-delay-time) |
 # Eulerian Circuit
 |  |
 | ------- |
@@ -88,3 +90,15 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/bagalkotabhinav/Leetcode/tree/master/1217-relative-sort-array) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/bagalkotabhinav/Leetcode/tree/master/0744-network-delay-time) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/bagalkotabhinav/Leetcode/tree/master/0744-network-delay-time) |
+# Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/bagalkotabhinav/Leetcode/tree/master/0744-network-delay-time) |
