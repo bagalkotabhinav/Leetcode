@@ -11,7 +11,7 @@ public:
                 int p=i[2];
                 if(prices[s]==INT_MAX)
                     continue;
-                if(prices[s] + p < temp[d])
+                if(temp[s] + p < temp[d])
                     temp[d] = prices[s] + p;
             }
             prices=temp;
