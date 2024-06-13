@@ -1,21 +1,30 @@
 class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-        vector<int> prices(n,INT_MAX); //Cost to reach each node from src node
-        prices[src]=0;
-        for(int i=0;i<k+1;i++){
-            vector<int> temp(prices.begin(),prices.end());
-            for(auto i: flights){
-                int s=i[0];
-                int d=i[1];
-                int p=i[2];
-                if(prices[s]==INT_MAX)
-                    continue;
-                if(temp[s] + p < temp[d])
-                    temp[d] = prices[s] + p;
-            }
-            prices=temp;
+        vector<vector<pair<int,int>>> adjmat(n);
+        vector<int> distances(n,INT_MAX);
+        for(auto i: flights){
+            adjmat[i[0]].push_back({i[1],i[2]});
         }
-        return prices[dst]!=INT_MAX?prices[dst]:-1;
+        distances[src]=0;
+        priority_queue<vector<int>,vector<vector<int>>,greater<vector<int>>> pq;
+        pq.push({0,src,0});
+        while(!pq.empty()){
+            int hops=pq.top()[0];
+            int node=pq.top()[1];
+            int cost=pq.top()[2];
+            pq.pop();
+            if(hops<=k){
+                for(auto i: adjmat[node]){
+                    int newnode=i.first;
+                    int path=i.second;
+                    if(cost+path<distances[newnode]){
+                        distances[newnode]=cost+path;
+                        pq.push({hops+1,newnode,cost+path});
+                    }
+                }
+            }
+        }
+        return distances[dst]!=INT_MAX?distances[dst]:-1;
     }
 };
