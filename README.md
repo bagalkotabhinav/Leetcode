@@ -13,6 +13,7 @@ My Leetcode Solutions
 | [0648-replace-words](https://github.com/bagalkotabhinav/Leetcode/tree/master/0648-replace-words) |
 | [0794-swim-in-rising-water](https://github.com/bagalkotabhinav/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/bagalkotabhinav/Leetcode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/bagalkotabhinav/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/bagalkotabhinav/Leetcode/tree/master/1217-relative-sort-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/bagalkotabhinav/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 # Divide and Conquer
@@ -39,6 +40,7 @@ My Leetcode Solutions
 | [0678-valid-parenthesis-string](https://github.com/bagalkotabhinav/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/bagalkotabhinav/Leetcode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/bagalkotabhinav/Leetcode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/bagalkotabhinav/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/bagalkotabhinav/Leetcode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/bagalkotabhinav/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -68,6 +70,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/bagalkotabhinav/Leetcode/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/bagalkotabhinav/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/bagalkotabhinav/Leetcode/tree/master/1217-relative-sort-array) |
 # Trie
 |  |
@@ -97,6 +100,7 @@ My Leetcode Solutions
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/bagalkotabhinav/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/bagalkotabhinav/Leetcode/tree/master/1217-relative-sort-array) |
 # Breadth-First Search
 |  |
