@@ -25,6 +25,7 @@ My Leetcode Solutions
 | [0045-jump-game-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/bagalkotabhinav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bagalkotabhinav/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/bagalkotabhinav/Leetcode/tree/master/0062-unique-paths) |
 | [0678-valid-parenthesis-string](https://github.com/bagalkotabhinav/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bagalkotabhinav/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 # Greedy
@@ -124,3 +125,11 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/bagalkotabhinav/Leetcode/tree/master/0794-swim-in-rising-water) |
+# Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/bagalkotabhinav/Leetcode/tree/master/0062-unique-paths) |
+# Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/bagalkotabhinav/Leetcode/tree/master/0062-unique-paths) |
