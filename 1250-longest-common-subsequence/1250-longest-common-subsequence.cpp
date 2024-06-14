@@ -15,3 +15,5 @@ public:
         return dp[m][n];
     }
 };
+
+//consider making +1 sized dp for memoization if index problems happen
