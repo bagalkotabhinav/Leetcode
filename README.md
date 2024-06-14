@@ -28,6 +28,7 @@ My Leetcode Solutions
 | [0062-unique-paths](https://github.com/bagalkotabhinav/Leetcode/tree/master/0062-unique-paths) |
 | [0678-valid-parenthesis-string](https://github.com/bagalkotabhinav/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/bagalkotabhinav/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1250-longest-common-subsequence](https://github.com/bagalkotabhinav/Leetcode/tree/master/1250-longest-common-subsequence) |
 # Greedy
 |  |
 | ------- |
@@ -47,6 +48,7 @@ My Leetcode Solutions
 | [0648-replace-words](https://github.com/bagalkotabhinav/Leetcode/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/bagalkotabhinav/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/bagalkotabhinav/Leetcode/tree/master/0768-partition-labels) |
+| [1250-longest-common-subsequence](https://github.com/bagalkotabhinav/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/bagalkotabhinav/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3379-score-of-a-string](https://github.com/bagalkotabhinav/Leetcode/tree/master/3379-score-of-a-string) |
 # Two Pointers
