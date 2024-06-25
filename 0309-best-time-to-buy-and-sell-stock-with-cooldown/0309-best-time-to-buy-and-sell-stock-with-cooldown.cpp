@@ -22,3 +22,9 @@ public:
         return ans(0,1,prices,dp);
     }
 };
+
+// 2d dp:
+// row: size of prices
+// col: buy or not buy
+// dp[i][j]=max profit by taking decision j with current current price index i
+// ie dp[2][0]=max profit by not buying(sell or hold) thr current coin, prices[2]
