@@ -19,3 +19,9 @@ public:
         return ans(0,amount,coins,dp);
     }
 };
+
+// 2d dp
+// row: size of array coins
+// col: total amount
+// dp[i][j]=ways to make current amount j by using the current coin coin[i]
+// for eg: dp[1][3] toral ways to make amount 3 by using current value, ie coins[1]
