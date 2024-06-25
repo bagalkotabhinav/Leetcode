@@ -1,26 +1,24 @@
 class Solution {
 public:
-    int ans(int i, vector<int>& prices, vector<vector<int>>& dp, int buy){
+    int ans(int i,int buy, vector<int>& prices, vector<vector<int>>& dp){
         if(i>=prices.size())
             return 0;
         if(dp[i][buy]!=-1)
             return dp[i][buy];
-        if(buy==1){
-            int purch_cur=-prices[i]+ans(i+1,prices,dp,0);
-            int skip_cur=0+ans(i+1,prices,dp,1);
-            dp[i][buy]=max(purch_cur,skip_cur);
+        if(buy){
+            int buy_cur=-prices[i]+ans(i+1,0,prices,dp);
+            int hold_cur=0+ans(i+1,1,prices,dp);
+            dp[i][buy]=max(buy_cur,hold_cur);
         }
         else{
-            int sell_cur=prices[i]+ans(i+2,prices,dp,1);
-            int skip_cur=0+ans(i+1,prices,dp,0);
-            dp[i][buy]=max(sell_cur,skip_cur);
+            int sell_cur=prices[i]+ans(i+2,1,prices,dp);
+            int hold_cur=0+ans(i+1,0,prices,dp);
+            dp[i][buy]=max(sell_cur,hold_cur);
         }
         return dp[i][buy];
     }
     int maxProfit(vector<int>& prices) {
-        int n=prices.size();
-        vector<vector<int>>dp(n,vector<int>(2,-1));
-        int res=ans(0,prices,dp,1);
-        return res;
+        vector<vector<int>> dp(prices.size()+2,vector<int>(2,-1));
+        return ans(0,1,prices,dp);
     }
 };
