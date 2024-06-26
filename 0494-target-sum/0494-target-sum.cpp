@@ -1,23 +1,20 @@
 class Solution {
 public:
-    int ans(int i, int total, int target, vector<int>& nums){
+    int ans(int i, vector<int>& nums, int target, int res, vector<vector<int>>& dp, int sum){
         if(i==nums.size()){
-            if(total==target)
+            if(res==target)
                 return 1;
             else
                 return 0;
         }
-        int x=ans(i+1,total+nums[i],target,nums);
-
-        int y=ans(i+1,total-nums[i],target,nums);
-
-        return (x+y);
+        if(dp[i][sum+res]!=-1)
+            return dp[i][sum+res];
+        dp[i][sum+res]=ans(i+1,nums,target,res+nums[i],dp,sum)+ans(i+1,nums,target,res-nums[i],dp,sum);
+        return dp[i][sum+res];
     }
     int findTargetSumWays(vector<int>& nums, int target) {
-            ios_base::sync_with_stdio(false);
-
-    cin.tie(NULL);
-
-        return ans(0,0,target,nums);
+        int sum=accumulate(nums.begin(),nums.end(),0);
+        vector<vector<int>> dp(nums.size()+1,vector<int>(2*sum+1,-1));
+        return ans(0,nums,target,0,dp,sum);
     }
 };
