@@ -1,21 +1,33 @@
 class Solution {
 public:
-    bool ans(string s1, string s2, string s3, int i, int j, vector<vector<int>>& dp){
-        if(i==s1.size() && j==s2.size())
+
+    bool solve(string &s1, string &s2, string &s3, int i ,int j, int index, vector<vector<int>> &dp){
+        if(index==s3.size())
             return true;
         if(dp[i][j]!=-1)
             return dp[i][j];
-        if(i<s1.size() && s1[i]==s3[i+j] && ans(s1,s2,s3,i+1,j,dp))
-            return true;
-        if(j<s2.size() && s2[j]==s3[i+j] && ans(s1,s2,s3,i,j+1,dp))
-            return true;
-        dp[i][j]=false;
+
+        bool a = false;
+        if(s1[i]==s3[index] && i<s1.size()){
+            a = solve(s1,s2,s3,i+1,j,index+1,dp);
+        }
+
+        bool b = false;
+        if(s2[j]==s3[index] && j<s2.size()){
+            b = solve(s1,s2,s3,i,j+1,index+1,dp);
+        }
+
+        dp[i][j] = a || b;
         return dp[i][j];
+        
     }
+
     bool isInterleave(string s1, string s2, string s3) {
-        if(s1.size()+s2.size()!=s3.size())
+        int n=s1.size();
+        int m=s2.size();
+        if(s3.size()!=n+m)
             return false;
-        vector<vector<int>> dp(s1.size()+1,vector<int>(s2.size()+1,-1));
-        return ans(s1,s2,s3,0,0,dp);
+        vector<vector<int>> dp(n+1,vector<int>(m+1,-1));
+        return solve(s1,s2,s3,0,0,0,dp);
     }
 };
