@@ -1,20 +1,20 @@
 class Solution {
 public:
-    int ans(int i, vector<int>& nums, int target, int res, vector<vector<int>>& dp, int sum){
-        if(i==nums.size()){
-            if(res==target)
+    int ans(int i, vector<int>& nums, int target, int sum, int total,vector<vector<int>>&dp){
+        if(i>=nums.size()){
+            if(total==target)
                 return 1;
             else
                 return 0;
         }
-        if(dp[i][sum+res]!=-1)
-            return dp[i][sum+res];
-        dp[i][sum+res]=ans(i+1,nums,target,res+nums[i],dp,sum)+ans(i+1,nums,target,res-nums[i],dp,sum);
-        return dp[i][sum+res];
+        if(dp[i][sum+total]!=-1)
+            return dp[i][sum+total];
+        dp[i][sum+total]=ans(i+1,nums,target,sum,total+nums[i],dp)+ans(i+1,nums,target,sum,total-nums[i],dp);
+        return dp[i][sum+total];
     }
     int findTargetSumWays(vector<int>& nums, int target) {
         int sum=accumulate(nums.begin(),nums.end(),0);
         vector<vector<int>> dp(nums.size()+1,vector<int>(2*sum+1,-1));
-        return ans(0,nums,target,0,dp,sum);
+        return ans(0,nums,target,sum,0,dp);
     }
 };
