@@ -18,3 +18,11 @@ public:
         return ans(0,nums,target,sum,0,dp);
     }
 };
+
+
+//if all -ve, then sum will be -sum, and if all +ve, sum will be +um, hence, from -sum to +sum, range of dp is set
+// for [1,1,1,1,1]
+// [-5,-4,-3,-2,-1,0,1,2,3,4,5], sum=5, range:[-5,5]
+// hence, dp[i][total] when current total is 0, it will be at 0, ie index 5,
+// hence dp[i][sum+total] is correct to represent 0 total.
+// negative numbers will be represented backwards
