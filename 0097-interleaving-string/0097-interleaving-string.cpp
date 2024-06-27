@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool ans(string s1, string s2, string s3, int i, int j, int k, vector<vector<int>>& dp){
+    bool ans(string& s1, string& s2, string& s3, int i, int j, int k, vector<vector<int>>& dp){
         if(k==s3.size())
             return true;
         if(dp[i][j]!=-1)
