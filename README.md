@@ -161,6 +161,7 @@ My Leetcode Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/bagalkotabhinav/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/bagalkotabhinav/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Depth-First Search
@@ -190,5 +191,6 @@ My Leetcode Solutions
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/bagalkotabhinav/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/bagalkotabhinav/Leetcode/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
