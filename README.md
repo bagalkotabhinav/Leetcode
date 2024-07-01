@@ -157,6 +157,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1293-three-consecutive-odds](https://github.com/bagalkotabhinav/Leetcode/tree/master/1293-three-consecutive-odds) |
 ## Dynamic Programming
 |  |
 | ------- |
