@@ -162,6 +162,7 @@ My Leetcode Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/bagalkotabhinav/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/bagalkotabhinav/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/bagalkotabhinav/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0312-burst-balloons](https://github.com/bagalkotabhinav/Leetcode/tree/master/0312-burst-balloons) |
@@ -193,6 +194,11 @@ My Leetcode Solutions
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/bagalkotabhinav/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/bagalkotabhinav/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/bagalkotabhinav/Leetcode/tree/master/0115-distinct-subsequences) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/bagalkotabhinav/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
