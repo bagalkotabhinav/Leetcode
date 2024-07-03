@@ -1,13 +1,12 @@
 class Solution {
 public:
-    int setbits(int i){
-        int ans=0;
-        while(i){
-            if(i&1)
-                ans++;
-            i=i>>1;
+    int setbits(int num){
+        int cnt =0;
+        while(num != 0){
+            num = num & (num-1);
+            cnt++;
         }
-        return ans;
+        return cnt;
     }
     vector<int> countBits(int n) {
         vector<int> ans(n+1,0);
