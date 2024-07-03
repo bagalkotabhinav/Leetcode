@@ -169,6 +169,7 @@ My Leetcode Solutions
 | [0115-distinct-subsequences](https://github.com/bagalkotabhinav/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0312-burst-balloons](https://github.com/bagalkotabhinav/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/bagalkotabhinav/Leetcode/tree/master/0338-counting-bits) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -224,6 +225,7 @@ My Leetcode Solutions
 | ------- |
 | [0136-single-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/bagalkotabhinav/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/bagalkotabhinav/Leetcode/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
