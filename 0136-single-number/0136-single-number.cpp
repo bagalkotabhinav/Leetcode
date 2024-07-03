@@ -5,6 +5,8 @@ public:
         for(auto i: nums)
             ans^=i;
         return ans;
+
+        //a XOR a = 0
     }
 };
 
