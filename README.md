@@ -156,6 +156,7 @@ My Leetcode Solutions
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0136-single-number) |
 | [0312-burst-balloons](https://github.com/bagalkotabhinav/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -218,4 +219,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
