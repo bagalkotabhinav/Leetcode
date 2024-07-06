@@ -1,22 +1,16 @@
 class Solution {
 public:
     int getSum(int a, int b) {
-        while(b!=0){
-            int carry=(a&b);
-            a=(a^b);
+        while(b){
+            int carry=a&b;
+            a=a^b;
             b=carry<<1;
         }
         return a;
     }
 };
-// 10
-// 11
-// carry=10
-// a=01
-// b=100
 
-// carry=000
-// a=101
-// b=0000
-
-// return 101
+//  AND both
+// XOR both and store in one number
+// LEFT SHIFT ANDed number by 1 and store in other number
+// repeat till second number becomes 0
