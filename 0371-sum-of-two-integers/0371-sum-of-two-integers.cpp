@@ -4,7 +4,7 @@ public:
         while(b!=0){
             int carry=(a&b);
             a=(a^b);
-            b=(unsigned)carry<<1;
+            b=carry<<1;
         }
         return a;
     }
