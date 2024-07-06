@@ -157,6 +157,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bagalkotabhinav/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0268-missing-number) |
 | [0312-burst-balloons](https://github.com/bagalkotabhinav/Leetcode/tree/master/0312-burst-balloons) |
@@ -196,6 +197,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bagalkotabhinav/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0054-spiral-matrix) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## String
 |  |
@@ -247,4 +249,8 @@ My Leetcode Solutions
 | [0048-rotate-image](https://github.com/bagalkotabhinav/Leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/bagalkotabhinav/Leetcode/tree/master/0371-sum-of-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
