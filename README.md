@@ -241,6 +241,7 @@ My Leetcode Solutions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/bagalkotabhinav/Leetcode/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/bagalkotabhinav/Leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
