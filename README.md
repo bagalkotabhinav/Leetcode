@@ -166,6 +166,7 @@ My Leetcode Solutions
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/bagalkotabhinav/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [2139-detect-squares](https://github.com/bagalkotabhinav/Leetcode/tree/master/2139-detect-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -221,6 +222,7 @@ My Leetcode Solutions
 | [0202-happy-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2139-detect-squares](https://github.com/bagalkotabhinav/Leetcode/tree/master/2139-detect-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -266,4 +268,12 @@ My Leetcode Solutions
 | ------- |
 | [0043-multiply-strings](https://github.com/bagalkotabhinav/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0054-spiral-matrix) |
+## Design
+|  |
+| ------- |
+| [2139-detect-squares](https://github.com/bagalkotabhinav/Leetcode/tree/master/2139-detect-squares) |
+## Counting
+|  |
+| ------- |
+| [2139-detect-squares](https://github.com/bagalkotabhinav/Leetcode/tree/master/2139-detect-squares) |
 <!---LeetCode Topics End-->
