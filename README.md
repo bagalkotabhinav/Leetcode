@@ -167,6 +167,7 @@ My Leetcode Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/bagalkotabhinav/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [2139-detect-squares](https://github.com/bagalkotabhinav/Leetcode/tree/master/2139-detect-squares) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/bagalkotabhinav/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +177,7 @@ My Leetcode Solutions
 | [0312-burst-balloons](https://github.com/bagalkotabhinav/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/bagalkotabhinav/Leetcode/tree/master/0338-counting-bits) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/bagalkotabhinav/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Depth-First Search
 |  |
 | ------- |
