@@ -1,20 +1,23 @@
 class Solution {
 public:
-    bool isHappy(int n) {
+    int ans(int n){
         int sum=0;
-        while(n!=0){
+        while(n){
             int rem=n%10;
-            n=n/10;
-            sum=sum+pow(rem,2);
+            n/=10;
+            sum+=pow(rem,2);
         }
-        if(sum==1)
+        return sum;
+    }
+    bool isHappy(int n) {
+        int slow=n;
+        int fast=ans(n);
+        while(slow!=fast && fast!=1){
+            slow=ans(slow);
+            fast=ans(ans(fast));
+        }
+        if(fast==1)
             return true;
-        if(sum>0 && sum<9){
-            if(sum==1 || sum==7)
-                return true;
-            else
-                return false;
-        }
-        return isHappy(sum);
+        return false;
     }
 };
