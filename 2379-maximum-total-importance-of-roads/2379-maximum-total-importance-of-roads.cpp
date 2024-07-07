@@ -10,11 +10,16 @@ public:
         long long int ans=0;
         for(int i=0;i<edges.size();i++){
             ans=ans+(edges[i]*(i+1));
-            // edges[i]=edges[i]*(i+1);
         }
         return ans;
     }
 };
+
+// More edges, higher importance
+// count for each node, how many edges
+// sort the number
+// muliply with starting from 1 till n the sorted number
+// sum up all
 
 // 0 1 2 3 4
 // 2 3 4 2 1
