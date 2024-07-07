@@ -268,6 +268,7 @@ My Leetcode Solutions
 | ------- |
 | [0043-multiply-strings](https://github.com/bagalkotabhinav/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0054-spiral-matrix) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/bagalkotabhinav/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Design
 |  |
 | ------- |
@@ -276,4 +277,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [2139-detect-squares](https://github.com/bagalkotabhinav/Leetcode/tree/master/2139-detect-squares) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/bagalkotabhinav/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
