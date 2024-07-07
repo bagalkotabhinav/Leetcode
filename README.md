@@ -190,6 +190,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2379-maximum-total-importance-of-roads](https://github.com/bagalkotabhinav/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Topological Sort
 |  |
 | ------- |
@@ -240,6 +241,7 @@ My Leetcode Solutions
 | ------- |
 | [0268-missing-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2379-maximum-total-importance-of-roads](https://github.com/bagalkotabhinav/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -283,4 +285,12 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bagalkotabhinav/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+## Greedy
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/bagalkotabhinav/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/bagalkotabhinav/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 <!---LeetCode Topics End-->
