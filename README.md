@@ -215,11 +215,13 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bagalkotabhinav/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
@@ -250,6 +252,7 @@ My Leetcode Solutions
 | ------- |
 | [0007-reverse-integer](https://github.com/bagalkotabhinav/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/bagalkotabhinav/Leetcode/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/bagalkotabhinav/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Simulation
