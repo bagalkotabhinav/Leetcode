@@ -206,6 +206,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/bagalkotabhinav/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0043-multiply-strings](https://github.com/bagalkotabhinav/Leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/bagalkotabhinav/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/bagalkotabhinav/Leetcode/tree/master/0115-distinct-subsequences) |
 ## Recursion
@@ -253,6 +254,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/bagalkotabhinav/Leetcode/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/bagalkotabhinav/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/bagalkotabhinav/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bagalkotabhinav/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bagalkotabhinav/Leetcode/tree/master/0066-plus-one) |
@@ -262,5 +264,6 @@ My Leetcode Solutions
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/bagalkotabhinav/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
