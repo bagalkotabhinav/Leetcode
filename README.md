@@ -156,6 +156,7 @@ My Leetcode Solutions
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/bagalkotabhinav/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/bagalkotabhinav/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/bagalkotabhinav/Leetcode/tree/master/0066-plus-one) |
@@ -229,6 +230,7 @@ My Leetcode Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/bagalkotabhinav/Leetcode/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
