@@ -159,6 +159,7 @@ My Leetcode Solutions
 | [0015-3sum](https://github.com/bagalkotabhinav/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/bagalkotabhinav/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/bagalkotabhinav/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/bagalkotabhinav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/bagalkotabhinav/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/bagalkotabhinav/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -174,6 +175,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/bagalkotabhinav/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/bagalkotabhinav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/bagalkotabhinav/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/bagalkotabhinav/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0312-burst-balloons](https://github.com/bagalkotabhinav/Leetcode/tree/master/0312-burst-balloons) |
@@ -259,6 +261,7 @@ My Leetcode Solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bagalkotabhinav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/bagalkotabhinav/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bagalkotabhinav/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Math
