@@ -156,6 +156,7 @@ My Leetcode Solutions
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bagalkotabhinav/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/bagalkotabhinav/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/bagalkotabhinav/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0054-spiral-matrix) |
@@ -230,6 +231,7 @@ My Leetcode Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bagalkotabhinav/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/bagalkotabhinav/Leetcode/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -241,6 +243,7 @@ My Leetcode Solutions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/bagalkotabhinav/Leetcode/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bagalkotabhinav/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
