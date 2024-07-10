@@ -171,6 +171,7 @@ My Leetcode Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/bagalkotabhinav/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [2139-detect-squares](https://github.com/bagalkotabhinav/Leetcode/tree/master/2139-detect-squares) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/bagalkotabhinav/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/bagalkotabhinav/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Dynamic Programming
 |  |
@@ -232,6 +233,7 @@ My Leetcode Solutions
 | [0268-missing-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2139-detect-squares](https://github.com/bagalkotabhinav/Leetcode/tree/master/2139-detect-squares) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/bagalkotabhinav/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -261,6 +263,7 @@ My Leetcode Solutions
 | [0268-missing-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/bagalkotabhinav/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/bagalkotabhinav/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/bagalkotabhinav/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -305,4 +308,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/bagalkotabhinav/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+## Prefix Sum
+|  |
+| ------- |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/bagalkotabhinav/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 <!---LeetCode Topics End-->
