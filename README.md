@@ -164,6 +164,7 @@ My Leetcode Solutions
 | [0066-plus-one](https://github.com/bagalkotabhinav/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/bagalkotabhinav/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/bagalkotabhinav/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0268-missing-number) |
 | [0312-burst-balloons](https://github.com/bagalkotabhinav/Leetcode/tree/master/0312-burst-balloons) |
@@ -180,6 +181,7 @@ My Leetcode Solutions
 | [0053-maximum-subarray](https://github.com/bagalkotabhinav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/bagalkotabhinav/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/bagalkotabhinav/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0152-maximum-product-subarray](https://github.com/bagalkotabhinav/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0312-burst-balloons](https://github.com/bagalkotabhinav/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/bagalkotabhinav/Leetcode/tree/master/0338-counting-bits) |
