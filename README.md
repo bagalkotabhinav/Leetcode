@@ -163,6 +163,7 @@ My Leetcode Solutions
 | [0054-spiral-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/bagalkotabhinav/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/bagalkotabhinav/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/bagalkotabhinav/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0229-majority-element-ii) |
@@ -246,6 +247,7 @@ My Leetcode Solutions
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
