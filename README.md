@@ -173,6 +173,7 @@ My Leetcode Solutions
 | [0312-burst-balloons](https://github.com/bagalkotabhinav/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0907-koko-eating-bananas](https://github.com/bagalkotabhinav/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/bagalkotabhinav/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [2139-detect-squares](https://github.com/bagalkotabhinav/Leetcode/tree/master/2139-detect-squares) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/bagalkotabhinav/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -254,6 +255,7 @@ My Leetcode Solutions
 | [0162-find-peak-element](https://github.com/bagalkotabhinav/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0907-koko-eating-bananas](https://github.com/bagalkotabhinav/Leetcode/tree/master/0907-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
