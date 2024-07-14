@@ -320,6 +320,7 @@ My Leetcode Solutions
 | [0141-linked-list-cycle](https://github.com/bagalkotabhinav/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/bagalkotabhinav/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bagalkotabhinav/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0328-odd-even-linked-list](https://github.com/bagalkotabhinav/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/bagalkotabhinav/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bagalkotabhinav/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Greedy
