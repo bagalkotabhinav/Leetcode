@@ -248,6 +248,7 @@ My Leetcode Solutions
 | [0015-3sum](https://github.com/bagalkotabhinav/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/bagalkotabhinav/Leetcode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/bagalkotabhinav/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/bagalkotabhinav/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bagalkotabhinav/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -265,6 +266,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/bagalkotabhinav/Leetcode/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/bagalkotabhinav/Leetcode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -283,6 +285,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bagalkotabhinav/Leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/bagalkotabhinav/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/bagalkotabhinav/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bagalkotabhinav/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Math
@@ -315,6 +318,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/bagalkotabhinav/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/bagalkotabhinav/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bagalkotabhinav/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/bagalkotabhinav/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bagalkotabhinav/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -330,4 +334,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/bagalkotabhinav/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/bagalkotabhinav/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
