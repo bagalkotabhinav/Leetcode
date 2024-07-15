@@ -163,6 +163,7 @@ My Leetcode Solutions
 | [0054-spiral-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/bagalkotabhinav/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/bagalkotabhinav/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/bagalkotabhinav/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/bagalkotabhinav/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -274,6 +275,7 @@ My Leetcode Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/bagalkotabhinav/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/bagalkotabhinav/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bagalkotabhinav/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -339,4 +341,8 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/bagalkotabhinav/Leetcode/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/bagalkotabhinav/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
