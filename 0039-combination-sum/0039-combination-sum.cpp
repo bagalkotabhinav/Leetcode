@@ -1,25 +1,24 @@
 class Solution {
 public:
-    void solve(vector<int>& candidates, int target, int i, vector<int>& temp, vector<vector<int>>& ans){
-        if(i==candidates.size() || target<0)
+    void ans(vector<int>& nums, int ind, int k, vector<int>& res, vector<vector<int>>& pow){
+        if(ind>=nums.size())
             return;
-        if(target==0){
-            ans.push_back(temp);
+        if(k==0){
+            pow.push_back(res);
             return;
         }
-
-        //PICK ELEMENT
-        temp.push_back(candidates[i]);
-        solve(candidates,target-candidates[i],i,temp,ans);
-        temp.pop_back();
-
-        //NOT PICK ELEMENT
-        solve(candidates,target,i+1,temp,ans);
+        else if(k<0)
+            return;
+        for(int i=ind;i<nums.size();i++){
+            res.push_back(nums[i]);
+            ans(nums,i,k-nums[i],res,pow);
+            res.pop_back();
+        }
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> ans;
-        vector<int> temp;
-        solve(candidates,target,0,temp,ans);
-        return ans;
+        vector<int> res;
+        vector<vector<int>> pow;
+        ans(candidates,0,target,res,pow);
+        return pow;
     }
 };
