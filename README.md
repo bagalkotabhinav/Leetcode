@@ -199,14 +199,17 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/bagalkotabhinav/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/bagalkotabhinav/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Graph
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/bagalkotabhinav/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bagalkotabhinav/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Topological Sort
 |  |
