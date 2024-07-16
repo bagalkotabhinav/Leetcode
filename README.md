@@ -158,6 +158,7 @@ My Leetcode Solutions
 | ------- |
 | [0015-3sum](https://github.com/bagalkotabhinav/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/bagalkotabhinav/Leetcode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/bagalkotabhinav/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/bagalkotabhinav/Leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/bagalkotabhinav/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/bagalkotabhinav/Leetcode/tree/master/0051-n-queens) |
@@ -217,6 +218,7 @@ My Leetcode Solutions
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bagalkotabhinav/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/bagalkotabhinav/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bagalkotabhinav/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -236,6 +238,7 @@ My Leetcode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bagalkotabhinav/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/bagalkotabhinav/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/bagalkotabhinav/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bagalkotabhinav/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -346,6 +349,7 @@ My Leetcode Solutions
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bagalkotabhinav/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/bagalkotabhinav/Leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/bagalkotabhinav/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/bagalkotabhinav/Leetcode/tree/master/0078-subsets) |
