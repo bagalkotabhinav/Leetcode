@@ -20,7 +20,8 @@ public:
                             board[i][j]=n;
                             if(solve(board))
                                 return true;
-                            board[i][j]='.';
+                            else
+                                board[i][j]='.';
                         }
                     }
                     return false;
