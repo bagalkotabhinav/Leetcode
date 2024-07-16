@@ -167,6 +167,7 @@ My Leetcode Solutions
 | [0066-plus-one](https://github.com/bagalkotabhinav/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/bagalkotabhinav/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/bagalkotabhinav/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/bagalkotabhinav/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/bagalkotabhinav/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -222,6 +223,7 @@ My Leetcode Solutions
 | [0048-rotate-image](https://github.com/bagalkotabhinav/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bagalkotabhinav/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/bagalkotabhinav/Leetcode/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## String
 |  |
@@ -229,6 +231,7 @@ My Leetcode Solutions
 | [0010-regular-expression-matching](https://github.com/bagalkotabhinav/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0043-multiply-strings](https://github.com/bagalkotabhinav/Leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/bagalkotabhinav/Leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/bagalkotabhinav/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/bagalkotabhinav/Leetcode/tree/master/0115-distinct-subsequences) |
 ## Recursion
 |  |
@@ -353,4 +356,5 @@ My Leetcode Solutions
 | [0039-combination-sum](https://github.com/bagalkotabhinav/Leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/bagalkotabhinav/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/bagalkotabhinav/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/bagalkotabhinav/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
