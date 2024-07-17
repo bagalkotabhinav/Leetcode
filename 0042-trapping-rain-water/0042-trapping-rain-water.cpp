@@ -1,32 +1,31 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        ios_base::sync_with_stdio(false); cin.tie(NULL);
         int n=height.size();
-        int maxleft=height[0];
-        int maxright=height[n-1];
-        int i=0;
-        int j=n-1;
+        vector<int> maxleft(n);
+        vector<int> maxright(n);
+        maxleft[0]=height[0];
+        int ml=height[0];
+        for(int i=1;i<n;i++){
+            maxleft[i]=ml;
+            if(height[i]>ml)
+                ml=height[i];
+        }
+        maxright[n-1]=height[n-1];
+        int mr=height[n-1];
+        for(int i=n-2;i>=0;i--){
+            maxright[i]=mr;
+            if(height[i]>mr)
+                mr=height[i];
+        }
         int ans=0;
-        int cur=0;
-
-        while(i<=j){
-            if(maxleft<=maxright){
-                cur=maxleft-height[i];
-                if(cur>0)
-                    ans+=cur;
-                if(height[i]>maxleft)
-                    maxleft=height[i];
-                i++;
-            }
-            else{
-                cur=maxright-height[j];
-                if(cur>0)
-                    ans+=cur;
-                if(height[j]>maxright)
-                    maxright=height[j];
-                j--;
-            }
+        vector<int> water(n);
+        for(int i=0;i<n;i++){
+            water[i]=min(maxleft[i],maxright[i])-height[i];
+        }
+        for(auto i: water){
+            if(i>0)
+                ans+=i;
         }
         return ans;
     }
