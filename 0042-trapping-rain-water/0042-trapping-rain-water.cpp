@@ -19,15 +19,14 @@ public:
                 mr=height[i];
         }
         int ans=0;
-        // vector<int> water(n);
+        vector<int> water(n);
         for(int i=0;i<n;i++){
-            if(min(maxleft[i],maxright[i])-height[i]>0)
-                ans+=min(maxleft[i],maxright[i])-height[i];
+            water[i]=min(maxleft[i],maxright[i])-height[i];
         }
-        // for(auto i: water){
-        //     if(i>0)
-        //         ans+=i;
-        // }
+        for(auto i: water){
+            if(i>0)
+                ans+=i;
+        }
         return ans;
     }
 };
