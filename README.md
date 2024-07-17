@@ -160,6 +160,7 @@ My Leetcode Solutions
 | [0031-next-permutation](https://github.com/bagalkotabhinav/Leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/bagalkotabhinav/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/bagalkotabhinav/Leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/bagalkotabhinav/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/bagalkotabhinav/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/bagalkotabhinav/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/bagalkotabhinav/Leetcode/tree/master/0053-maximum-subarray) |
@@ -189,6 +190,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/bagalkotabhinav/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/bagalkotabhinav/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bagalkotabhinav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/bagalkotabhinav/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/bagalkotabhinav/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -262,6 +264,7 @@ My Leetcode Solutions
 | ------- |
 | [0015-3sum](https://github.com/bagalkotabhinav/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/bagalkotabhinav/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/bagalkotabhinav/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/bagalkotabhinav/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/bagalkotabhinav/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bagalkotabhinav/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -366,11 +369,13 @@ My Leetcode Solutions
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bagalkotabhinav/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/bagalkotabhinav/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bagalkotabhinav/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/bagalkotabhinav/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
