@@ -178,6 +178,7 @@ My Leetcode Solutions
 | [0312-burst-balloons](https://github.com/bagalkotabhinav/Leetcode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/bagalkotabhinav/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0907-koko-eating-bananas](https://github.com/bagalkotabhinav/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/bagalkotabhinav/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [2139-detect-squares](https://github.com/bagalkotabhinav/Leetcode/tree/master/2139-detect-squares) |
@@ -252,6 +253,7 @@ My Leetcode Solutions
 | [0229-majority-element-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/bagalkotabhinav/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2139-detect-squares](https://github.com/bagalkotabhinav/Leetcode/tree/master/2139-detect-squares) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/bagalkotabhinav/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Two Pointers
@@ -360,4 +362,12 @@ My Leetcode Solutions
 | [0051-n-queens](https://github.com/bagalkotabhinav/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/bagalkotabhinav/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/bagalkotabhinav/Leetcode/tree/master/0079-word-search) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/bagalkotabhinav/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/bagalkotabhinav/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
