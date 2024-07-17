@@ -179,6 +179,7 @@ My Leetcode Solutions
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/bagalkotabhinav/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-koko-eating-bananas](https://github.com/bagalkotabhinav/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/bagalkotabhinav/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [2139-detect-squares](https://github.com/bagalkotabhinav/Leetcode/tree/master/2139-detect-squares) |
@@ -366,8 +367,10 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/bagalkotabhinav/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/bagalkotabhinav/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
