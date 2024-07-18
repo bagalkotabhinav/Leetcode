@@ -10,7 +10,7 @@ public:
         }
         ans.push_back(dq.front());
         for(int i=k;i<nums.size();i++){
-            if(dq.front()==nums[i-k])
+            if(nums[i-k]==dq.front())
                 dq.pop_front();
             while(!dq.empty() && dq.back()<nums[i])
                 dq.pop_back();
