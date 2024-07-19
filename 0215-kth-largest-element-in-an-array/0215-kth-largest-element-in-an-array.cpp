@@ -7,5 +7,3 @@ public:
         return pq.top();
     }
 };
-
- 
