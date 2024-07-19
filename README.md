@@ -183,6 +183,7 @@ My Leetcode Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/bagalkotabhinav/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/bagalkotabhinav/Leetcode/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/bagalkotabhinav/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/bagalkotabhinav/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1293-three-consecutive-odds](https://github.com/bagalkotabhinav/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -260,6 +261,7 @@ My Leetcode Solutions
 | [0268-missing-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/bagalkotabhinav/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/bagalkotabhinav/Leetcode/tree/master/0621-task-scheduler) |
 | [2139-detect-squares](https://github.com/bagalkotabhinav/Leetcode/tree/master/2139-detect-squares) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/bagalkotabhinav/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 ## Two Pointers
@@ -292,6 +294,7 @@ My Leetcode Solutions
 | [0229-majority-element-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0621-task-scheduler](https://github.com/bagalkotabhinav/Leetcode/tree/master/0621-task-scheduler) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bagalkotabhinav/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Bit Manipulation
 |  |
@@ -338,6 +341,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/bagalkotabhinav/Leetcode/tree/master/0621-task-scheduler) |
 | [2139-detect-squares](https://github.com/bagalkotabhinav/Leetcode/tree/master/2139-detect-squares) |
 ## Linked List
 |  |
@@ -351,12 +355,14 @@ My Leetcode Solutions
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/bagalkotabhinav/Leetcode/tree/master/0621-task-scheduler) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bagalkotabhinav/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bagalkotabhinav/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/bagalkotabhinav/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/bagalkotabhinav/Leetcode/tree/master/0621-task-scheduler) |
 | [2379-maximum-total-importance-of-roads](https://github.com/bagalkotabhinav/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Prefix Sum
 |  |
