@@ -170,6 +170,7 @@ My Leetcode Solutions
 | [0078-subsets](https://github.com/bagalkotabhinav/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/bagalkotabhinav/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bagalkotabhinav/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bagalkotabhinav/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/bagalkotabhinav/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bagalkotabhinav/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -257,6 +258,7 @@ My Leetcode Solutions
 | ------- |
 | [0037-sudoku-solver](https://github.com/bagalkotabhinav/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/bagalkotabhinav/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bagalkotabhinav/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/bagalkotabhinav/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bagalkotabhinav/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/bagalkotabhinav/Leetcode/tree/master/0202-happy-number) |
@@ -314,6 +316,7 @@ My Leetcode Solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bagalkotabhinav/Leetcode/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bagalkotabhinav/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/bagalkotabhinav/Leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/bagalkotabhinav/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/bagalkotabhinav/Leetcode/tree/master/0191-number-of-1-bits) |
@@ -415,11 +418,13 @@ My Leetcode Solutions
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bagalkotabhinav/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bagalkotabhinav/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bagalkotabhinav/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bagalkotabhinav/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bagalkotabhinav/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bagalkotabhinav/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
