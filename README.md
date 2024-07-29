@@ -210,6 +210,7 @@ My Leetcode Solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/bagalkotabhinav/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bagalkotabhinav/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bagalkotabhinav/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bagalkotabhinav/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/bagalkotabhinav/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -423,6 +424,7 @@ My Leetcode Solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/bagalkotabhinav/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bagalkotabhinav/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bagalkotabhinav/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bagalkotabhinav/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bagalkotabhinav/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/bagalkotabhinav/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
@@ -431,10 +433,12 @@ My Leetcode Solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/bagalkotabhinav/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/bagalkotabhinav/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bagalkotabhinav/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bagalkotabhinav/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bagalkotabhinav/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/bagalkotabhinav/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bagalkotabhinav/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/bagalkotabhinav/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
