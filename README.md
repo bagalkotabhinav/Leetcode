@@ -187,6 +187,7 @@ My Leetcode Solutions
 | [0621-task-scheduler](https://github.com/bagalkotabhinav/Leetcode/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/bagalkotabhinav/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/bagalkotabhinav/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/bagalkotabhinav/Leetcode/tree/master/1036-rotting-oranges) |
 | [1293-three-consecutive-odds](https://github.com/bagalkotabhinav/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [2139-detect-squares](https://github.com/bagalkotabhinav/Leetcode/tree/master/2139-detect-squares) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/bagalkotabhinav/Leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -221,6 +222,7 @@ My Leetcode Solutions
 | [0127-word-ladder](https://github.com/bagalkotabhinav/Leetcode/tree/master/0127-word-ladder) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bagalkotabhinav/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1036-rotting-oranges](https://github.com/bagalkotabhinav/Leetcode/tree/master/1036-rotting-oranges) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/bagalkotabhinav/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Graph
 |  |
@@ -245,6 +247,7 @@ My Leetcode Solutions
 | [0073-set-matrix-zeroes](https://github.com/bagalkotabhinav/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/bagalkotabhinav/Leetcode/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/bagalkotabhinav/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1036-rotting-oranges](https://github.com/bagalkotabhinav/Leetcode/tree/master/1036-rotting-oranges) |
 ## String
 |  |
 | ------- |
